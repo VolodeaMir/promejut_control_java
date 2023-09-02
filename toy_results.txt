@@ -1,0 +1,10 @@
+Selected Toy: 1 - конструктор
+Selected Toy: 2 - робот
+Selected Toy: 3 - кукла
+Selected Toy: 3 - кукла
+Selected Toy: 3 - кукла
+Selected Toy: 3 - кукла
+Selected Toy: 2 - робот
+Selected Toy: 3 - кукла
+Selected Toy: 3 - кукла
+Selected Toy: 2 - робот
